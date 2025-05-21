@@ -10,15 +10,15 @@ body {
   text-align: right;
   direction: rtl;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 24px;
-  font: bolder;
-  font-weight: 500;
+  font-size: 20px;
+  font: bold;
+  font-weight: 300;
   color: white;
   position: relative;
 }
 
 h1 {
-  font-size: 4.8rem;
+  font-size: 3.8rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -55,8 +55,7 @@ h1 {
 
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font: bold;
-  line-height: 1.9;
+  line-height: 1.4rem;
   letter-spacing: 1px;
 }
 
@@ -267,7 +266,7 @@ p {
 
 /* Contact */
 .form-control {
-  font-size: 1.1rem;
+  font-size: 1rem;
   border-radius: 0;
   border: none;
   background-color: #353541;
@@ -339,8 +338,7 @@ footer {
 }
 
 .tm-copyright-text {
-  font-weight: bold;
-  background-color: rgba(11, 31, 250, 0.6);
+  background-color: rgba(126, 126, 134, 0.6);
   display: inline-block;
   padding: 10px 30px;
 }
