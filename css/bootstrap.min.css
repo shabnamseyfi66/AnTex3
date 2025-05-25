@@ -450,13 +450,13 @@ hr {
 
 .img-fluid {
     max-width: 100%;
-    height: 60%
+    height: 60%;
 }
 
 .img-thumbnail {
     padding: .25rem;
     background-color: #fff;
-    border: 1px solid #dee2e6;
+    border: 2px solid #dee2e6;
     border-radius: .25rem;
     max-width: 100%;
     height: auto
@@ -7846,7 +7846,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
     }
 
     .p-sm-4 {
-        padding: 1.5rem!important
+        padding: 2rem!important
     }
 
     .pt-sm-4,.py-sm-4 {
