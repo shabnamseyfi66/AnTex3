@@ -54,9 +54,10 @@ h1 {
 }
 
 p {
+  text-align: justify;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  line-height: 1.4rem;
-  letter-spacing: 1px;
+  line-height: 1.6rem;
+  letter-spacing: 1.1px;
 }
 
 .tm-main-content {
@@ -136,6 +137,7 @@ p {
 
 /* Expanding Grid Items from Codrops */
 .tm-page-title {
+  text-align: center;
   font-weight: 300;
 }
 .content {
@@ -337,7 +339,7 @@ footer {
 }
 
 .tm-copyright-text {
-  background-color: rgba(126, 126, 134, 0.6);
+  background-color: rgba(17, 185, 185, 0.6);
   display: inline-block;
   padding: 10px 30px;
 }
@@ -422,10 +424,10 @@ p:last-child {
 
 }
 .tm-slider-img {
-  width: 550px;
+  width: 250px;
   height: 150px;
   transition: all ease 3s 1s, box-shadow 1s ease;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 .tm-slider-img:hover:hover

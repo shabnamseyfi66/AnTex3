@@ -218,4 +218,3 @@
 	DOM.details = new Details();
 };
 
-
